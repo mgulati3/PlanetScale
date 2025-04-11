@@ -79,9 +79,3 @@ This app is a fun way to:
 - Understand SwiftUI's modern navigation system
 - Practice passing data between views using `NavigationPath`
 - Learn about gravity and physics in an interactive way
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
